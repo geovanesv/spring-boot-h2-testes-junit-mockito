@@ -1,7 +1,7 @@
-package br.com.felixgilioli.alunoservice.controller;
+package br.com.geovane.aluno.service.controller;
 
-import br.com.felixgilioli.alunoservice.entity.Aluno;
-import br.com.felixgilioli.alunoservice.service.AlunoService;
+import br.com.geovane.aluno.service.entity.Aluno;
+import br.com.geovane.aluno.service.service.AlunoService;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

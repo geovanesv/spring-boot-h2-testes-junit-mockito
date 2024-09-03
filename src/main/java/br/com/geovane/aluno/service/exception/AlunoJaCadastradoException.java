@@ -1,4 +1,4 @@
-package br.com.felixgilioli.alunoservice.exception;
+package br.com.geovane.aluno.service.exception;
 
 public class AlunoJaCadastradoException extends RuntimeException {
 

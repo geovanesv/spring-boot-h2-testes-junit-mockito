@@ -1,10 +1,10 @@
-package br.com.felixgilioli.alunoservice.service;
+package br.com.geovane.aluno.service.service;
 
-import br.com.felixgilioli.alunoservice.entity.Aluno;
-import br.com.felixgilioli.alunoservice.exception.AlunoJaCadastradoException;
-import br.com.felixgilioli.alunoservice.message.AlunoCadastrado;
-import br.com.felixgilioli.alunoservice.message.PublicaMensagemAlunoCadastrado;
-import br.com.felixgilioli.alunoservice.repository.AlunoRepository;
+import br.com.geovane.aluno.service.entity.Aluno;
+import br.com.geovane.aluno.service.exception.AlunoJaCadastradoException;
+import br.com.geovane.aluno.service.message.AlunoCadastrado;
+import br.com.geovane.aluno.service.message.PublicaMensagemAlunoCadastrado;
+import br.com.geovane.aluno.service.repository.AlunoRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.UUID;

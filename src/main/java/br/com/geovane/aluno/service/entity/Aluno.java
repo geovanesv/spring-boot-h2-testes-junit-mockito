@@ -1,6 +1,6 @@
-package br.com.felixgilioli.alunoservice.entity;
+package br.com.geovane.aluno.service.entity;
 
-import br.com.felixgilioli.alunoservice.enumeration.Sexo;
+import br.com.geovane.aluno.service.enumeration.Sexo;
 import jakarta.persistence.*;
 
 @Entity
